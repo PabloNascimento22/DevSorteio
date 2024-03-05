@@ -33,6 +33,7 @@ h2 {
 
 input {
     font-family: "Anta", sans-serif;
+    text-align: center;
     background: rgba(255, 255, 255, 0.25);
     border: 1px solid rgba(255, 225, 225, 0.2);
     border-radius: 14px;
